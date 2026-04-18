@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MODUL7;
+
+FilmFavorit_103022430014_PRAKTIKAN.ReadJSON();
